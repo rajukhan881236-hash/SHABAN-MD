@@ -27,7 +27,7 @@
     "MENU_IMAGE_URL": {
       "description": "Add Your Imgae Url Bot Menu",
       "required": true,
-      "value": "https://files.catbox.moe/abrl88.jpg"
+      "value": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg"
     }, 
       
     "PREFIX": {
